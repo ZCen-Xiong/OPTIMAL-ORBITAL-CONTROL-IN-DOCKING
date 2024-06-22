@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPA_AQ", "SPA_AQ\SPA_AQ.csproj", "{7996D957-EB48-407B-8BAF-5DFBD81353C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7996D957-EB48-407B-8BAF-5DFBD81353C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7996D957-EB48-407B-8BAF-5DFBD81353C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7996D957-EB48-407B-8BAF-5DFBD81353C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7996D957-EB48-407B-8BAF-5DFBD81353C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B74A140-9513-4F26-B573-B3254599E9AA}
+	EndGlobalSection
+EndGlobal
